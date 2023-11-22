@@ -40,4 +40,4 @@ jobs:
           app-name: 'AzureSearchCrowlerOnepoint'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_975868C62EC84C4FA30D4998087173E9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_97183B7AB56947F986C1D6047742FCF0 }}
