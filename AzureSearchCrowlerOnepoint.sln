@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureSearchCrowlerOnepoint", "AzureSearchCrowlerOnepoint.csproj", "{59F13636-3FB0-4B0A-BCF2-7BE29FADA307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F13636-3FB0-4B0A-BCF2-7BE29FADA307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F13636-3FB0-4B0A-BCF2-7BE29FADA307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F13636-3FB0-4B0A-BCF2-7BE29FADA307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F13636-3FB0-4B0A-BCF2-7BE29FADA307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9926E204-01AD-4E79-8580-4B56D4B127C4}
+	EndGlobalSection
+EndGlobal
